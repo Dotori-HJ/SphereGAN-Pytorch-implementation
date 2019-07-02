@@ -35,7 +35,7 @@ python main.py --dataset cifar10
 
 #### MNIST
 
-![mnist_random](experiments\mnist\random.png)
+![mnist_random](experiments/mnist/random.png)
 
 
 
